@@ -24,3 +24,8 @@ The dashboard provides actionable insights into revenue trends, product performa
 ## Screenshot / Demo
   
   ![Dashboard Preview](https://github.com/shashikumar-yadav/Blinkit-Analysis-Dashboard/blob/main/Blinkit_Analysis_Dashboard.png)
+
+  # 🧠 Author
+- Shashikumar Yadav
+- IT Consultant & MSc Data Science Student
+- Specializing in Power BI, Python, SQL, ServiceNow 
